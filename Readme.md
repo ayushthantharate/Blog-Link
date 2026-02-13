@@ -4,10 +4,6 @@ Welcome! 👋
 This repository contains a curated list of my technical blog posts covering **Git, Networking, Browsers, DNS, HTML, CSS, and Developer Tools**.  
 Each article is written in simple, beginner-friendly language with real-world explanations.
 
----
-
----
-
 ## Blog Links
 
 ### Git & Version Control
