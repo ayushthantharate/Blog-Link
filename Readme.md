@@ -33,5 +33,3 @@ Each article is written in simple, beginner-friendly language with real-world ex
 - [Understanding HTML Tags and Elements](https://gitbasicandessentialcommand.hashnode.dev/)
 - [Emmet for HTML](https://emmet-for-html-blog.hashnode.dev/)
 - [Understanding CSS Selectors](https://understanding-css-selectors-001.hashnode.dev/)
-
----
